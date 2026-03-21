@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br>👋 Hi, I’m Ishan Sharma<br>Sophomore AI & ML Student | Problem Solver | Aspiring Data Scientist<br><br>I am a second-year Artificial Intelligence and Machine Learning student passionate about building intelligent systems and solving complex problems through code. Currently, I'm bridging the gap between core data structures and real-world AI applications.<br><br>🛠️ Tech Stack & Tools<br>Languages: Python, C, SQL,Java<br><br>AI/ML: Natural Language Processing (NLP), Scikit-Learn (Learning)<br><br>Databases: MySQL, PostgreSQL<br><br>Developer Tools: Git, GitHub, VS Code, Kaggle<br><br>🔭 Current Focus<br>DSA Mastery: Currently crushing a 100-Day LeetCode Challenge to sharpen my algorithmic thinking.<br><br>Specialization: Deepening my knowledge in NLP and its transformative impact on the healthcare sector.<br><br>Academic Projects: Implementing efficient data structures (like Queues and Linked Lists) for practical applications.<br><br>LinkedIn: linkedin.com/in/ishan-sharma-147843318<br>
 
 

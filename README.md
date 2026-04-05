@@ -1,6 +1,114 @@
-#  About Me:
-<br>Hi, I’m Ishan Sharma<br>Sophomore AI & ML Student | Problem Solver | Aspiring Data Scientist<br><br>I am a second-year Artificial Intelligence and Machine Learning student passionate about building intelligent systems and solving complex problems through code. Currently, I'm bridging the gap between core data structures and real-world AI applications.<br><br> Tech Stack & Tools<br>Languages: Python, C, SQL,Java<br><br>AI/ML: Natural Language Processing (NLP), Scikit-Learn (Learning)<br><br>Databases: MySQL, PostgreSQL<br><br>Developer Tools: Git, GitHub, VS Code, Kaggle<br><br> Current Focus<br>DSA Mastery: Currently crushing a 100-Day LeetCode Challenge to sharpen my algorithmic thinking.<br><br>Specialization: Deepening my knowledge in NLP and its transformative impact on the healthcare sector.<br><br>Academic Projects: Implementing efficient data structures (like Queues and Linked Lists) for practical applications.<br><br>LinkedIn: linkedin.com/in/ishan-sharma-147843318<br>
+# Ishan Sharma
 
+B.Tech Computer Science (Artificial Intelligence & Machine Learning)  
+Manipal University Jaipur  
+Dehradun, India
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+---
+
+## About Me
+
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning at Manipal University Jaipur. My interests focus on building real-world AI systems, machine learning pipelines, and intelligent applications that combine data science with modern web technologies.
+
+I am particularly interested in natural language processing, predictive modeling, generative AI systems, and AI-powered web platforms. I enjoy developing practical solutions that apply machine learning to domains such as healthcare, financial planning, and data analytics.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+Python  
+Java  
+C  
+SQL  
+
+### Artificial Intelligence and Machine Learning
+Machine Learning  
+Natural Language Processing (NLP)  
+Model Evaluation  
+Data Preprocessing  
+
+### Web Development
+HTML  
+CSS  
+JavaScript  
+React  
+Vite  
+
+### Databases
+MySQL  
+Oracle  
+
+### Tools and Platforms
+Git  
+Linux (Red Hat)  
+Jupyter Notebook  
+Visual Studio Code  
+
+---
+
+## Experience
+
+### AI/ML Intern — Overload Ware Labs AI (OWL)  
+March 2026 – Present
+
+- Assist in developing machine learning workflows for AI-driven applications  
+- Perform data preprocessing, experimentation, and model evaluation  
+- Collaborate with engineering teams to prototype intelligent automation tools  
+
+### Content Writer — InAmigos Foundation  
+March 2026 – April 2026
+
+- Produced educational articles focused on animal welfare and social awareness  
+- Worked with editorial teams to publish structured digital content  
+
+### Open Source Contributor — GirlScript Summer of Code  
+September 2025 – November 2025
+
+- Contributed to open-source repositories through bug fixes and feature improvements  
+- Collaborated with distributed teams using Git-based workflows  
+
+---
+
+## Projects
+
+### BachatAI — AI Financial Planning Application
+
+Technologies: React, Vite, JavaScript, Recharts, Google Gemini API
+
+- Built an AI-powered financial planning application supporting savings projections and financial forecasting  
+- Developed interactive dashboards for real-time financial insights  
+- Integrated a conversational AI assistant using the Gemini API  
+- Deployed the application using Vercel  
+
+### Clinical NLP Healthcare Analyzer (In Progress)
+
+Technologies: Python, Streamlit, HuggingFace Transformers, PyTorch
+
+- Developing an NLP-based system to analyze clinical text and extract biomedical entities  
+- Implementing Named Entity Recognition for symptoms, diseases, and medications  
+- Designing visualization modules and knowledge graphs to interpret medical relationships  
+- Building a Streamlit interface for real-time clinical text analysis  
+
+---
+
+## Certifications
+
+Red Hat System Administration I (RH124)  
+Red Hat System Administration II (RH134)  
+Generative and Agentic AI — Saad Business School, Oxford  
+Google AI Essentials  
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+---
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---

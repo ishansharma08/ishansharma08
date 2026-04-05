@@ -1,114 +1,20 @@
-# Ishan Sharma
+ Hi ,I'm Ishan Sharma
+ 
+Computer Science Student  
+Passionate about AIML, Open Source & Problem Solving  
+India  
 
-B.Tech Computer Science (Artificial Intelligence & Machine Learning)  
-Manipal University Jaipur  
-Dehradun, India
+# About Me:
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning at Manipal University Jaipur. My interests focus on building real-world AI systems, machine learning pipelines, and intelligent applications that combine data science with modern web technologies.<br><br>I am particularly interested in natural language processing, predictive modeling, generative AI systems, and AI-powered web platforms. I enjoy developing practical solutions that apply machine learning to domains such as healthcare, financial planning, and data analytics.<br><br>
 
----
 
-## About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning at Manipal University Jaipur. My interests focus on building real-world AI systems, machine learning pipelines, and intelligent applications that combine data science with modern web technologies.
+🔥 GitHub Streak
 
-I am particularly interested in natural language processing, predictive modeling, generative AI systems, and AI-powered web platforms. I enjoy developing practical solutions that apply machine learning to domains such as healthcare, financial planning, and data analytics.
-
----
-
-## Technical Skills
-
-### Programming Languages
-Python  
-Java  
-C  
-SQL  
-
-### Artificial Intelligence and Machine Learning
-Machine Learning  
-Natural Language Processing (NLP)  
-Model Evaluation  
-Data Preprocessing  
-
-### Web Development
-HTML  
-CSS  
-JavaScript  
-React  
-Vite  
-
-### Databases
-MySQL  
-Oracle  
-
-### Tools and Platforms
-Git  
-Linux (Red Hat)  
-Jupyter Notebook  
-Visual Studio Code  
+![GitHub Streak](https://streak-stats.demolab.com?user=ishansharma08&theme=tokyonight)
 
 ---
 
-## Experience
-
-### AI/ML Intern — Overload Ware Labs AI (OWL)  
-March 2026 – Present
-
-- Assist in developing machine learning workflows for AI-driven applications  
-- Perform data preprocessing, experimentation, and model evaluation  
-- Collaborate with engineering teams to prototype intelligent automation tools  
-
-### Content Writer — InAmigos Foundation  
-March 2026 – April 2026
-
-- Produced educational articles focused on animal welfare and social awareness  
-- Worked with editorial teams to publish structured digital content  
-
-### Open Source Contributor — GirlScript Summer of Code  
-September 2025 – November 2025
-
-- Contributed to open-source repositories through bug fixes and feature improvements  
-- Collaborated with distributed teams using Git-based workflows  
-
----
-
-## Projects
-
-### BachatAI — AI Financial Planning Application
-
-Technologies: React, Vite, JavaScript, Recharts, Google Gemini API
-
-- Built an AI-powered financial planning application supporting savings projections and financial forecasting  
-- Developed interactive dashboards for real-time financial insights  
-- Integrated a conversational AI assistant using the Gemini API  
-- Deployed the application using Vercel  
-
-### Clinical NLP Healthcare Analyzer (In Progress)
-
-Technologies: Python, Streamlit, HuggingFace Transformers, PyTorch
-
-- Developing an NLP-based system to analyze clinical text and extract biomedical entities  
-- Implementing Named Entity Recognition for symptoms, diseases, and medications  
-- Designing visualization modules and knowledge graphs to interpret medical relationships  
-- Building a Streamlit interface for real-time clinical text analysis  
-
----
-
-## Certifications
-
-Red Hat System Administration I (RH124)  
-Red Hat System Administration II (RH134)  
-Generative and Agentic AI — Saad Business School, Oxford  
-Google AI Essentials  
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

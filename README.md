@@ -1,5 +1,4 @@
- Hi,I'm Ishan Sharma,
- 
+Ishan Sharma, 
 Computer Science Student  
 Passionate about AIML, Open Source & Problem Solving  
 India  

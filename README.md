@@ -32,7 +32,4 @@ LeetCode Stats:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishansharma08&theme=tokyo-night"/>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ishansharma08's GitHub profile" src="dark_mode.svg" />
-</picture>
+

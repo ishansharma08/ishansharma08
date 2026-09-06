@@ -5,7 +5,7 @@ Passionate about AIML, Open Source & Problem Solving
 India  
 
 # About:
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning at Manipal University Jaipur. My interests focus on building real-world AI systems, machine learning pipelines, and intelligent applications that combine data science with modern web technologies.<br><br>I am particularly interested in natural language processing, predictive modeling, generative AI systems, and AI-powered web platforms. I enjoy developing practical solutions that apply machine learning to domains such as healthcare, financial planning, and data analytics.<br><br>
+Junior B.Tech Computer Science Student at Manipal Jaipur, with a keen focus on architecting scalable software systems, developing AI driven applications and engineering intelligent ML Solutions.<br><br>
 
 
 # 💻 Tech Stack:

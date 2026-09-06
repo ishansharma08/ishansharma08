@@ -6,7 +6,8 @@
 
 Ishan Sharma, 
 
-Junior,Computer Science 
+Junior, Computer Science 
+
 Passionate about AIML, Open Source & Problem Solving  
 India.  
 

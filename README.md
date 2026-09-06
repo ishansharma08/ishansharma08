@@ -26,10 +26,4 @@ LeetCode Stats:
 <p align="center">
 <img src="https://raw.githubusercontent.com/ishansharma08/ishansharma08/output/github-contribution-grid-snake.svg"/>
 
-##  Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishansharma08&theme=tokyo-night"/>
-</p>
-<picture>
 

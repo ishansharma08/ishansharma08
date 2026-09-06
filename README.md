@@ -5,9 +5,10 @@
 </picture>
 
 Ishan Sharma, 
-Computer Science Student  
+
+Junior,Computer Science 
 Passionate about AIML, Open Source & Problem Solving  
-India  
+India.  
 
 # About:
 Junior B.Tech Computer Science Student at Manipal Jaipur, with a keen focus on architecting scalable software systems, developing AI driven applications and engineering intelligent ML Solutions.<br><br>
